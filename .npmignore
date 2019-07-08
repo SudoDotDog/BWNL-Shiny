@@ -1,0 +1,6 @@
+.gitignore
+.git
+.npmignore
+docs
+.vscode
+makefile
