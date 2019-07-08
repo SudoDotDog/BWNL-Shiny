@@ -1,0 +1,20 @@
+{
+  "name": "@bwnl/shiny",
+  "version": "1.0.0",
+  "description": ":stars: Shiny css configs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SudoDotDog/BWNL-Shiny.git"
+  },
+  "keywords": [
+    "BWNL",
+    "Neon"
+  ],
+  "author": "WMXPY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SudoDotDog/BWNL-Shiny/issues"
+  },
+  "homepage": "https://github.com/SudoDotDog/BWNL-Shiny#readme"
+}
